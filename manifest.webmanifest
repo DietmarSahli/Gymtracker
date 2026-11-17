@@ -1,0 +1,9 @@
+{
+  "name": "GymTracker",
+  "short_name": "GymTracker",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f9",
+  "theme_color": "#f5f7fa",
+  "icons": []
+}
